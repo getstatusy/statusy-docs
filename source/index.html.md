@@ -5,6 +5,13 @@ toc_footers:
   - <a href='https://statusy.co/'>Return to Statusy</a>
 
 includes:
+ - getting_started
+ - connecting_to_twitter
+ - custom_domains
+ - user_profile
+ - billing
+ - api
+ - support
 
 search: true
 ---
