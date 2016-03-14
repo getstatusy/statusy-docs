@@ -9,6 +9,7 @@ includes:
  - connecting_to_twitter
  - custom_domains
  - user_profile
+ - team
  - billing
  - api
  - support
