@@ -8,6 +8,8 @@ This repository includes the code and data to run the Statusy API documentation 
 * `bundle exec middleman`
 * Contribute! 
 
+Runs on port 5002 for Vagrant
+
 ## Conventions
 
 * Please split off each category into its own file in `includes`
