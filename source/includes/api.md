@@ -1,6 +1,8 @@
 # Using the API
 
-Statusy has a fully functional RESTful API. The API Documentation can be found [here](https://api.statusy.co/). In order to use the API you must first create a token. API Tokens are issued at the user level.
+Statusy has a fully functional RESTful API. When using the API be sure to [check out the API Documentation](https://api.statusy.co/).
+
+In order to use the API you must first create a token. API Tokens are issued at the user level.
 
 ![API Token Generation](api.png)
 
